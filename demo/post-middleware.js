@@ -1,3 +1,7 @@
+/**
+ * koa-bodyparser使用
+ */
+
 const Koa = require('koa')
 const app = new Koa()
 const bodyParser = require('koa-bodyparser')
